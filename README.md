@@ -15,7 +15,7 @@ netmask 255.255.255.0<br>
 network 10.0.0.0<br><br>
 gateway 10.0.0.1<br>
 
-Concerning usage of this tool:<br>
-- Get CBAM token by completing the CBAM IP, client id and client secret fields.<br>
+Concerning usage of this tool:<br><Br>
+Get CBAM token by completing the CBAM IP, client id and client secret fields.<br>
 
-- Now in case you want to scale VNF then you will need to click on 'Scale VNF'. Access token and CBAM IP will be automatically populated after executing step 1. You will need here to define aspect id, VNF Id, number of steps, scale direction and additional parameters.
+Now in case you want to scale VNF then you will need to click on 'Scale VNF'. Access token and CBAM IP will be automatically populated after executing step 1. You will need here to define aspect id, VNF Id, number of steps, scale direction and additional parameters.
